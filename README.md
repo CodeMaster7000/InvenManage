@@ -10,3 +10,5 @@ Download `1.0` from the releases tab. Then run:
 
 - `python3 InvenManage.py` in a terminal if you have MacOS/Linux.
 - `python InvenManage.py` in a terminal if you have Windows.
+
+© 2024- CodeMaster7000 & TechDreams Innovations. All rights reserved.
